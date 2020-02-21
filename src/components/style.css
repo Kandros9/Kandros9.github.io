@@ -1,0 +1,77 @@
+.ant-radio-button-wrapper.green-button:not(.ant-radio-button-wrapper-disabled):hover,
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.green-button {
+    background-color: #52c41a;
+    color: white;
+    border-color: #73d13d;
+    outline: none;
+}
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.green-button:hover {
+    background-color: #73d13d;
+    color: white;
+    border-color: #73d13d;
+}
+
+.ant-radio-button-wrapper.yellow-button:not(.ant-radio-button-wrapper-disabled):hover,
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.yellow-button {
+    background-color: #fadb14;
+    color: white;
+    border-color: #ffec3d;
+}
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.yellow-button:hover {
+    background-color: #ffec3d;
+    color: white;
+    outline: none;
+    border-color: #ffec3d;
+}
+
+.ant-radio-button-wrapper.red-button:not(.ant-radio-button-wrapper-disabled):hover,
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.red-button {
+    background-color: #f5222d;
+    color: white;
+    border-color: #ff4d4f;
+}
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.red-button:hover {
+    background-color: #ff4d4f;
+    color: white;
+    outline: none;
+    border-color: #ff4d4f;
+}
+
+.ant-radio-button-wrapper.blue-button:not(.ant-radio-button-wrapper-disabled):hover,
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.blue-button {
+    background-color: #1890ff;
+    color: white;
+    border-color: #40a9ff;
+}
+.ant-radio-button-wrapper-checked.ant-radio-button-wrapper.blue-button:hover {
+    background-color: #40a9ff;
+    color: white;
+    outline: none;
+    border-color: #40a9ff;
+}
+
+.ant-btn-group.score {
+    width: 100%;
+}
+
+.metrics {
+    margin: 0 0 5% 0;
+}
+
+.score.ant-radio-group-outline.ant-radio-group {
+    color: #ff4d4f;
+    width: 100%;
+}
+
+.title {
+    font-family: Roboto;
+    color: white;
+    font-size: 20px;
+    width: 20%;
+}
+
+.ant-layout-footer.footer {
+    background-color: #d3d3d3;
+    text-align: center
+}
+
